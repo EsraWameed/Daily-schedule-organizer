@@ -14,7 +14,7 @@ This app was created to assist users in organizing their time based on working h
 - Bootstrap: to set-up the lay-out of the calander. 
 
 ## Deployed Application
-https://esrawameed.github.io/Coding-Knowledge-Quiz-Game/
+https://esrawameed.github.io/Daily-schedule-organizer/
 
 ![Alt text](assets/images/image%201.png "Final Look")
 
